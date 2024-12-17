@@ -1,5 +1,5 @@
 # Used by `image`, `push` & `deploy` targets, override as required
-IMAGE_REG ?= dockeer.io
+IMAGE_REG ?= docker.io
 IMAGE_REPO ?= Vishnukv07/Flaskpython-demoapp
 IMAGE_TAG ?= latest
 
